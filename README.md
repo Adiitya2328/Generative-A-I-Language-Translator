@@ -1,4 +1,4 @@
-#<h2 style="color: #4CAF50;">Generative AI Language Translator</h2>
+<h2 style="color: #4CAF50;">Generative AI Language Translator</h2>
 
 ## Project Overview
 This is a language translation project built using the **NLLB (No Language Left Behind)** model from Hugging Face. The NLLB model is a state-of-the-art transformer model capable of translating between over **200 languages**, allowing for highly accurate and multilingual text translation. 
